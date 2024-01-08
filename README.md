@@ -2,7 +2,10 @@
 
 Logge dich via ssh ```Putty``` ein
 
-dannach schreibe 'bash <(curl -s https://raw.githubusercontent.com/Spielfuchx/TxAdmin-update/main/update.sh)'
+dannach schreibe 
+```
+bash <(curl -s https://raw.githubusercontent.com/Spielfuchx/TxAdmin-update/main/update.sh)
+```
 
 Schreibe den Link welche version dein Tx haben soll hinein 'https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/' Rechtslick und Link Kopieren
 
