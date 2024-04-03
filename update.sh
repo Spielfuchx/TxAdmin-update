@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'TxAdmin LINUX Updater vn SpielFuchx'
+echo 'TxAdmin LINUX Updater von SpielFuchx'
 
 cd /home/FiveM/server
 
@@ -22,6 +22,4 @@ screen ./run.sh
 
 echo 'Fertig jetzt musst du nur noch (reboot) eingeben und erneut deinen server mit 
 cd /home/FiveM/server 
-screen ./run.sh
-
-Starten'
+screen ./run.sh'
