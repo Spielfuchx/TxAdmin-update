@@ -2,6 +2,11 @@
 
 Logge dich via ssh ```Putty``` ein
 
+schreibe 
+```
+apt update && apt upgrade -y
+```
+
 dannach schreibe 
 ```
 bash <(curl -s https://raw.githubusercontent.com/Spielfuchx/TxAdmin-update/main/update.sh)
