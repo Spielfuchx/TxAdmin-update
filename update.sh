@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'TX LINUX Updater'
+echo 'TxAdmin LINUX Updater vn SpielFuchx'
 
 cd /home/FiveM/server
 
@@ -20,6 +20,8 @@ rm -r fx.tar.xz
 
 screen ./run.sh
 
-echo 'Fertig/Done jetz musst du nurnoch (reboot) eingeben und erneut deinen server mit 
+echo 'Fertig jetzt musst du nur noch (reboot) eingeben und erneut deinen server mit 
 cd /home/FiveM/server 
-screen ./run.sh'
+screen ./run.sh
+
+Starten'
