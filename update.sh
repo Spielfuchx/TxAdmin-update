@@ -18,7 +18,7 @@ tar xf fx.tar.xz
 
 rm -r fx.tar.xz
 
-screen ./run.sh
+#screen ./run.sh
 
 echo 'Fertig jetzt musst du nur noch (reboot) eingeben und erneut deinen server mit 
 cd /home/FiveM/server 
